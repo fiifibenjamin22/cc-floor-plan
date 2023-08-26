@@ -1,6 +1,6 @@
 {
-  "name": "cc-floor-plan",
-  "version": "2.0.7",
+  "name": "react-planner",
+  "version": "2.0.9",
   "description": "floor-plan is a React Component for plans design. Draw a 2D floorplan and navigate it in 3D mode.",
   "main": "lib/index.js",
   "module": "es/index.js",
